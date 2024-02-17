@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bilal
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: bilalgh2005@gmail.com
